@@ -1,0 +1,28 @@
+reverse_bits/reverse_bits.c: In function ‘reverse_bits’:
+reverse_bits/reverse_bits.c:17:12: error: expected expression before ‘int’
+   17 |     while (int i = 0; i < 8; i++) {
+      |            ^~~
+
+a$
+M-^F$
+\n
+\n
+-------
+
+1$
+M-^L$
+\n
+\n
+-------
+
+3$
+M-L$
+\n
+\n
+-------
+
+w$
+M-n$
+\n
+\n
+-------

@@ -1,0 +1,7 @@
+ulstr
+ft_putstr
+rot_13
+ft_strdup
+reverse_bits
+ft_strrev
+is_power_of_2

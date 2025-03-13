@@ -1,0 +1,36 @@
+reverse_bits/reverse_bits.c: In function ‘reverse_bits’:
+reverse_bits/reverse_bits.c:17:12: error: expected expression before ‘int’
+   17 |     while (int i = 0; i < 8; i++) {
+      |            ^~~
+reverse_bits/reverse_bits.c: At top level:
+reverse_bits/reverse_bits.c:24:1: error: expected identifier or ‘(’ before ‘}’ token
+   24 | }
+      | ^
+reverse_bits/reverse_bits.c: In function ‘main’:
+reverse_bits/reverse_bits.c:26: error: expected ‘{’ at end of input
+   26 | int main(void)
+      | 
+
+a$
+M-^F$
+\n
+\n
+-------
+
+1$
+M-^L$
+\n
+\n
+-------
+
+3$
+M-L$
+\n
+\n
+-------
+
+w$
+M-n$
+\n
+\n
+-------

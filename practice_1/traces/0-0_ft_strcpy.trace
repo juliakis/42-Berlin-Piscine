@@ -1,0 +1,21 @@
+ft_strcpy/ft_strcpy.c:14:1: error: expected identifier or ‘(’ before ‘{’ token
+   14 | {
+      | ^
+
+$
+$
+\n
+\n
+-------
+
+abc$
+mag$
+\n
+\n
+-------
+
+   c\0$
+   f\0$
+\n
+\n
+-------
